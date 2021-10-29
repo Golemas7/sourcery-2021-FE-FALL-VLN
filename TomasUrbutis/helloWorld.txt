@@ -1,1 +1,5 @@
-‘Hello from feature branch!’
+<br>
+  Hello from feature branch!<br>
+  and<br>
+  Hello from merge-conflict branch!<br>
+  after successful merge conflict
